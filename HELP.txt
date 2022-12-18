@@ -1,0 +1,45 @@
+====================AYUDA====================
+
+-Argumentos:
+	-h (para mostrar ayuda inicialmente)
+	ruta_fichero (se ejecutan los comandos en el fichero)
+
+-COMANDOS:
+	Añadir ; al final de la expresión para imprimir el resultado
+	
+	-Funciones calculadora: 
+
+			 clear 		--> limpia las variables del entorno
+			 tabla 		--> imprime la tabla de símbolos
+			 entorno		--> imprime las variables de entorno existentes
+			 ayuda			--> imprime esta ayuda
+			 abrir nombrefichero 	--> lee comandos de un archivo externo
+			 
+	-Funciones matemáticas:
+
+		-sin()
+		-cos()
+		-tan()
+		-asin()
+		-acos()
+		-atan()
+		-sinh()
+		-cosh()
+		-tanh()
+		-log10()
+		-ln()
+		-exp()
+		-sqrt()
+		-ceil()
+		-floor()
+		-fabs()
+		-pow( , )
+		
+	-Constantes:
+		-PI
+		-E (epsilon)
+		
+	-Variables: cadenas alphanuméricas (incluyendo _) que no empiecen por número.
+
+	-Operadores: = + - * / ^ += -= *= /=
+
